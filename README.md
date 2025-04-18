@@ -38,5 +38,5 @@ Um modpack completo para **Minecraft 1.20.1**, combinando o melhor da **magia**,
 
 1. Abra o **[Technic Launcher](https://www.technicpack.net/download)**  
 2. Vá em *Modpacks* > *Adicionar Modpack*  
-3. Cole este link no campo **Colocar Depois**:
+3. Cole este link no campo **https://www.technicpack.net/modpack/arcanotech-dimensoes-infinitas.2004347**
 
